@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDZ_1.2", "WPFDZ_1.2\WPFDZ_1.2.csproj", "{12950D2A-F451-4BD4-9F25-47ADAA31AC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12950D2A-F451-4BD4-9F25-47ADAA31AC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12950D2A-F451-4BD4-9F25-47ADAA31AC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12950D2A-F451-4BD4-9F25-47ADAA31AC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12950D2A-F451-4BD4-9F25-47ADAA31AC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFBEB32-EBBA-4F5B-AA9E-D7D11C5996E9}
+	EndGlobalSection
+EndGlobal
